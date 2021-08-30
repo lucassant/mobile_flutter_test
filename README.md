@@ -1,16 +1,14 @@
-# summary_card
+# Summary Card Flutter
 
-A new Flutter project.
+Projeto de teste desenvolvido em Flutter para consumo de API GraphQl e Hasura.
 
-## Getting Started
+# Imagens
 
-This project is a starting point for a Flutter application.
+Loading:
+<img src="https://i.imgur.com/mWmSCpU.png" alt="loading" height="400">
 
-A few resources to get you started if this is your first Flutter project:
+Home:
+<img src="https://i.imgur.com/tKnomcn.png" alt="home" height="400">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Error:
+<img src="https://i.imgur.com/iyZeIyp.png" alt="error" height="400">
